@@ -5,7 +5,7 @@ A simple docker compose for laravel project
 
 Clone this repository and then run this code in your terminal 
 
-`docker-composer build && docker-compose up -d`
+`docker-compose build && docker-compose up -d`
 
 
 
